@@ -15,9 +15,6 @@ public class ProductStockEx {
 	
 	public void addQty() {
 		Product product1=new Product("P001","Soap",50);
-	
-		
-		
 		
 		Stock pr1Stock=new Stock(50.00,new Date());
 
